@@ -6,8 +6,3 @@ It is built using HTML, CSS, and JavaScript with dynamic DOM manipulation and au
 
 👉 Live Demo: https://thelachu.github.io/Lottery-Game/
 
-To run locally, simply clone the repository and open index.html in a browser:
-
-git clone https://github.com/yourusername/Lottery-Game.git
-cd Lottery-Game
-open index.html
